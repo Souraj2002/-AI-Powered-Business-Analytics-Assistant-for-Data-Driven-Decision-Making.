@@ -1,7 +1,3 @@
-# Automated Business Insights Generator with GenAI
-## MSc Statistics - Business Analytics Project
-
----
 
 ## 📋 Project Overview
 
@@ -9,9 +5,6 @@
 
 **Objective:** Develop a Python-based system that leverages Generative AI to automatically analyze business datasets, perform statistical tests, generate insights, and create executive-ready reports in natural language.
 
-**Target Role:** Business Analyst with Statistical Expertise
-
----
 
 ## 🎓 Learning Objectives
 
